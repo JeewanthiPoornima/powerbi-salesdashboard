@@ -5,11 +5,11 @@ and make data-driven decisions with confidence.
 Dataset Overview : 
 The dashboard uses a robust sales dataset that simulates real-world business scenarios. Key components of the dataset include:
 
-Order Details: Transaction dates, order IDs, and product information
-Product Hierarchy: Categories and sub-categories for granular analysis
-Financial Metrics: Sales, profit, discount percentages, and quantities sold
-Customer Data: Segmentation by customer type and demographic details
-Geographical Data: Sales performance across various regions and markets
+- Order Details: Transaction dates, order IDs, and product information
+- Product Hierarchy: Categories and sub-categories for granular analysis
+- Financial Metrics: Sales, profit, discount percentages, and quantities sold
+- Customer Data: Segmentation by customer type and demographic details
+- Geographical Data: Sales performance across various regions and markets
 
 Key Features and Functionality
 Comprehensive KPI Cards: Instantly monitor total sales, profit, discounts, and quantity sold through dynamic, visually appealing KPI tiles.
